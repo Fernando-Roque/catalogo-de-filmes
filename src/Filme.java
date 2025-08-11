@@ -74,6 +74,6 @@ public class Filme {
 
     @Override
     public String toString() {
-        return "Filme: " + titulo + " (" + dataLancamento.getYear() + ")";
+        return " Filme: " + titulo + " (" + dataLancamento.getYear() + ") \n ";
     }
 }
