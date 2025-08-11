@@ -1,6 +1,7 @@
-//package service;
+package servico;
 
-// import model.*; // importando todas as classes do pacote model.
+
+import modelo.* ; // importando todas as classes do pacote modelo.
 
 import java.util.ArrayList;
 import java.util.List;
