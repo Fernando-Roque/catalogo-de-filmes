@@ -1,7 +1,7 @@
 // class App.java veio na criação do projeto.
 
 // so usa esses imports caso use os pacotes.
- import modelo.*;
+import modelo.*;
 import modelo.Ator;
 import modelo.Diretor;
 import modelo.Filme;
@@ -9,7 +9,6 @@ import servico.CatalogoFilmes;
 
 import java.time.LocalDate;
 import java.util.List;
-// import java.util.Arrays;
 import java.util.Scanner;
 
 public class App {
